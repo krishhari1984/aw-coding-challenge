@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.DataAccess"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.Utilities", "CodingChallenge.Utilities\CodingChallenge.Utilities.csproj", "{9558DB3C-4735-499A-9468-7A7D83FE8E9F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingChallenge.API", "CodingChallenge.API\CodingChallenge.API.csproj", "{AEDB5DCF-D951-4B79-9901-E9952600172B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9558DB3C-4735-499A-9468-7A7D83FE8E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9558DB3C-4735-499A-9468-7A7D83FE8E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9558DB3C-4735-499A-9468-7A7D83FE8E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDB5DCF-D951-4B79-9901-E9952600172B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDB5DCF-D951-4B79-9901-E9952600172B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDB5DCF-D951-4B79-9901-E9952600172B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDB5DCF-D951-4B79-9901-E9952600172B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
